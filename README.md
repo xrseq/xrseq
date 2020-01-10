@@ -1,5 +1,5 @@
 <div id="demo">Testing</div>
-![Image](images/background.jpg)
+![Image](images/header_crop.jpg)
 
 ## Welcome the Extinction Rebellion South East Queensland community page.
 ### This community page has been created to provide a space for the XR SEQ movement to:
