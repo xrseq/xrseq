@@ -3,5 +3,5 @@
 
 @import "{{ site.theme }}";
 #demo {
-background: #56C704 url("https://www.abc.net.au/news/2019-10-07/extinction-rebellion-activists-march-during-brisbane-rebellion/11580226") no-repeat scroll 0 0;
+background: #56C704 url("images/background.jpg") no-repeat scroll 0 0;
 }
