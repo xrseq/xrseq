@@ -1,3 +1,4 @@
+![Image](images/background.jpg)
 ![Image](images/xrlogo.png)
 
 ## Welcome the Extinction Rebellion South East Queensland community page.
@@ -11,6 +12,6 @@ The page is currently under development in the spare time of professionals, volu
 
 ### Essential Links:
 
-* Sign up for the XR SEQ newsletter
-* Upcoming events
-* Our demands and guiding principles
+* [Sign up](signup) for the XR SEQ newsletter
+* [Upcoming events](events)
+* [Our demands](ourdemands) and guiding principles
