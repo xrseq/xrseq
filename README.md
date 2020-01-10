@@ -4,5 +4,5 @@
 ### This community page has been created to provide a space for the SEQ movement to:
 
 - Get in touch, sign up to newsletters.
-- Advertise and find out about upcoming events.
-- Provide a clear and simple page that lists our demands and principles.
+- Find out about upcoming events.
+- Provide a lists of our demands and principles.
