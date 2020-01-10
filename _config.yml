@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-# Site settings
+title: "Extinction Rebellion South Easy Queensland Community Page"
 url: "https://zebrax0r.github.io/xrseq/"
-logo: [images/xrlogo.png]
-show_downloads: ["true"]
+logo: "images/xrlogo.png"
+show_downloads: "true"
