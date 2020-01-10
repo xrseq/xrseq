@@ -1,4 +1,3 @@
-<div id="demo">Testing</div>
 ![Image](images/header_crop.jpg)
 
 ## Welcome the Extinction Rebellion South East Queensland community page.
