@@ -1,3 +1,4 @@
+<div id="demo">Testing</div>
 ![Image](images/background.jpg)
 
 ## Welcome the Extinction Rebellion South East Queensland community page.
