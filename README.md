@@ -11,6 +11,6 @@ The page is currently under development in the spare time of professionals, volu
 
 ### Essential Links:
 
-* [Sign up](signup) for the XR SEQ newsletter
-* [Upcoming events](events)
-* [Our demands](ourdemands) and guiding principles
+* [Sign up](signup.md) for the XR SEQ newsletter
+* [Upcoming events](events.md)
+* [Our demands](ourdemands.md) and guiding principles
