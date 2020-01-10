@@ -1,4 +1,4 @@
-![Image](images/xrlogo.png)
+![Image](images/background.jpg)
 
 ## Welcome the Extinction Rebellion South East Queensland community page.
 ### This community page has been created to provide a space for the XR SEQ movement to:

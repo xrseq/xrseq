@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 # Site settings
 url: "https://zebrax0r.github.io/xrseq/"
+logo: [images/xrlogo.png]
+show_downloads: ["true"]
