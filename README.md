@@ -1,4 +1,3 @@
-![Image](images/background.jpg)
 ![Image](images/xrlogo.png)
 
 ## Welcome the Extinction Rebellion South East Queensland community page.
