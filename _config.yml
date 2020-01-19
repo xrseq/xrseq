@@ -14,7 +14,7 @@ description: A hub for events, information and participation
 #url: "https://example.com"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
