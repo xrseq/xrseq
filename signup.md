@@ -9,8 +9,7 @@
 <div id="mc_embed_signup">
 <form action="//redgadgets.us10.list-manage.com/subscribe/post?u=210acce5db69d3d4a04b0e25d&amp;id=a268d63442" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-    <h2>Please subscribe to the XR SEQ Mailing List.</h2>
-    <h3>We promise to keep your details private and only use them for newsletter communications between you and us!</h3>
+    <h2>Subscribe to the XR SEQ Mailing List.</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
     <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>

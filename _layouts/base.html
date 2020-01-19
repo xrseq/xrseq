@@ -3,10 +3,11 @@ common-css:
   - "/css/bootstrap.min.css"
   - "/css/bootstrap-social.css"
   - "/css/main.css"
+  - "/css/video-banner.css"
 common-ext-css:
   - "//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"
 common-googlefonts:
-  - "Lora:400,700,400italic,700italic"
+  - "Crimson+Text:400,700,400italic,700italic"
   - "Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
 common-js:
   - "/js/jquery-1.11.2.min.js"
@@ -17,9 +18,12 @@ common-js:
 <!DOCTYPE html>
 <html lang="en">
   <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  
   {% include head.html %}
-
+  
   <body>
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v5.0"></script>
 
     {% include gtm_body.html %}
   

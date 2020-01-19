@@ -1,7 +1,0 @@
----
----
-
-@import "{{ site.theme }}";
-#demo {
-background: #56C704 url("images/background.jpg") no-repeat scroll 0 0;
-}

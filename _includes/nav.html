@@ -1,5 +1,6 @@
 <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
   <div class="container-fluid">
+    
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
         <span class="sr-only">Toggle navigation</span>
@@ -7,11 +8,18 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
+
       {%- if site.title-img -%}
         <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img src="{{ site.title-img }}"/></a>
       {%- else -%}
         <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
       {%- endif -%}
+    </div>
+
+    <div class="video-container">
+      <video id="video-bg" playsinline="playsinline" muted preload="true" autoplay="autoplay" loop="loop" volume="0" poster="img/xrlogo.jpg">
+        <source src="../assets/banner_video.mp4" type="video/mp4">
+      </video>
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
